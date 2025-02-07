@@ -67,7 +67,7 @@ O JavaScript neste projeto é responsável pela validação dos campos do formul
 - Para alterar a imagem de fundo, substitua `src/image/bg-repeat.jpg`.
 
 ## Autor
-- [Rafael Do Rosario](https://github.com/seu-usuario)
+- [Rafael Do Rosario](https://rafaspeak.github.io/Message-Form/)
 
 ## Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
