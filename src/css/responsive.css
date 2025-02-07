@@ -1,0 +1,55 @@
+/* largura menor que 768p */
+@media screen and (max-width: 768px) {
+    .container {
+        flex-direction: column; 
+        align-items: center;
+        height: auto; 
+        padding: 20px;
+    }
+
+    .info {
+        padding: 20px; 
+        text-align: center; 
+    }
+
+    .form-container {
+        width: 90%; 
+        padding: 15px;
+    }
+
+    input, textarea {
+        font-size: 14px;
+    }
+
+    button {
+        font-size: 14px;
+        padding: 10px;
+    }
+}
+
+/* largura menor que 480px */
+@media screen and (max-width: 480px) {
+    .container {
+        width: 100%; 
+        padding: 10px;
+    }
+
+    .info {
+        padding: 10px;
+    }
+
+    .form-container {
+        width: 100%;
+        padding: 10px;
+    }
+
+    input, textarea {
+        font-size: 12px; 
+        padding: 8px;
+    }
+
+    button {
+        font-size: 13px;
+        padding: 8px;
+    }
+}
